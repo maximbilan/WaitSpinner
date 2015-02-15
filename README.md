@@ -8,7 +8,7 @@ For installing througth CocoaPods:
 pod 'WaitSpinner'
 </pre>
 
-Or just copy WaitSpinner.h and WaitSpinner.m to your project.
+Or just copy <i>WaitSpinner.h</i> and <i>WaitSpinner.m</i> to your project.
 
 Using:
 <pre>
@@ -20,5 +20,4 @@ WaitSpinner *waitSpinner = [[WaitSpinner alloc] init];
 
 // Hiding
 [waitSpinner hide];
-
 </pre>
