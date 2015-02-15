@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 s.name         = "WaitSpinner"
 s.version      = "0.1"
 s.summary      = "Simple activity indicator"
-s.description  = "Simple activity indicator"
+s.description  = "It's very very simple activity indicator for iOS 7,8"
 s.homepage     = "https://github.com/maximbilan/ios_wait_spinner.git"
 s.license      = { :type => "MIT" }
 s.author             = { "Maxim Bilan" => "maximb.mail@gmail.com" }
