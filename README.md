@@ -6,19 +6,21 @@
 
 Very very simple activity indicator.
 
-For installing througth CocoaPods:
+## Installation
+
+<b>Cocoapods:</b>
 
 <pre>
 pod 'WaitSpinner'
 </pre>
 
-Manual:
+<b>Manual:</b>
 
 <pre>
 Or just copy <i>WaitSpinner.h</i> and <i>WaitSpinner.m</i> to your project.
 </pre>
 
-Using:
+## How to use
 <pre>
 // Creating
 WaitSpinner *waitSpinner = [[WaitSpinner alloc] init];
