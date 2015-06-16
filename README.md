@@ -17,7 +17,7 @@ pod 'WaitSpinner'
 <b>Manual:</b>
 
 <pre>
-Or just copy <i>WaitSpinner.h</i> and <i>WaitSpinner.m</i> to your project.
+Just copy <i>WaitSpinner.h</i> and <i>WaitSpinner.m</i> to your project.
 </pre>
 
 ## How to use
