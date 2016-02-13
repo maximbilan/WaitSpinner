@@ -8,7 +8,7 @@ Very very simple activity indicator.
 
 ## Installation
 
-<b>Cocoapods:</b>
+<b>CocoaPods:</b>
 
 <pre>
 pod 'WaitSpinner'
