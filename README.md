@@ -22,7 +22,7 @@ Just copy the next files to your project:
 WaitSpinner.m</i>
 </pre>
 
-## How to use
+## Using
 <pre>
 // Creating
 WaitSpinner *waitSpinner = [[WaitSpinner alloc] init];
