@@ -6,7 +6,7 @@
 [![CocoaPods](https://img.shields.io/cocoapods/dt/WaitSpinner.svg)](https://cocoapods.org/pods/WaitSpinner)
 [![CocoaPods](https://img.shields.io/cocoapods/dm/WaitSpinner.svg)](https://cocoapods.org/pods/WaitSpinner)
 
-Very very simple activity indicator.
+A very very simple activity indicator.
 
 ## Installation
 
